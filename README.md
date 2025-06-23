@@ -73,8 +73,8 @@ All result visualizations are saved in the `images/` directory.
 For questions, suggestions, or collaboration:
 
 - **Author**: Jayanth  
-- **GitHub**: [@jayanth0706](https://github.com/jayanth0706)  
+- **GitHub**: [GitHub/Jayanth0706](https://github.com/jayanth0706)  
 - **Email**: jayanthchary779933@gmail.com
-- **LinkedIn**: [@jayanth0706](https://www.linkedin.com/in/jayanth0706)  
+- **LinkedIn**: [LinkedIn/Jayanth0706](https://www.linkedin.com/in/jayanth0706)  
 
 ---
