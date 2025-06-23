@@ -4,21 +4,6 @@ This project aims to accurately predict a person's body fat percentage using var
 
 ---
 
-## 📌 Table of Contents
-
-- [About the Project](#about-the-project)
-- [Dataset](#dataset)
-- [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
----
-
 ## 📖 About the Project
 
 Body fat is a key health indicator. Traditional methods to measure body fat (like underwater weighing or DXA scans) are costly and inconvenient. This project uses a dataset of body measurements to predict body fat percentage using supervised machine learning models.
