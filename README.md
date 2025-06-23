@@ -74,7 +74,7 @@ For questions, suggestions, or collaboration:
 
 - **Author**: Jayanth  
 - **GitHub**: [@jayanth0706](https://github.com/jayanth0706)  
-- **Email**: your-email@example.com  
-- **LinkedIn**: [Your LinkedIn URL here]  
+- **Email**: jayanthchary779933@gmail.com
+- **LinkedIn**: [@jayanth0706](https://www.linkedin.com/in/jayanth0706)  
 
 ---
